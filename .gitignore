@@ -1,0 +1,10 @@
+#ide
+.idea
+
+# Python local staff
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Generated test reports
+test_report.html
